@@ -1,1 +1,1 @@
-Projeto teste para aula de Modelos de incerteza com a Lógica Difusa(Fuzzy) *Working
+Projeto Avaliaçào para aula de Modelos de incerteza com a Lógica Difusa(Fuzzy) *Working
